@@ -1,0 +1,4 @@
+#Thu May 09 18:17:58 MDT 2024
+base.0=C\:\\Users\\helam\\Documents\\myDoc\\BYUH\\CIS203\\i18n\\grid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Five Dim Sum in a row</string>
+    <string name="endgame_title1">TIE!</string>
+    <string name="endgame_title2">Player X WIN!</string>
+    <string name="endgame_title3">Player O WIN!</string>
+    <string name="endgame_message">Play Again?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="gameMode_title">Game Mode</string>
+    <string name="gameMode_message">Please choose game mode!</string>
+    <string name="onePlayer">One Player</string>
+    <string name="twoPlayer">Two Player</string>
+    <string name="playerX">Player X: </string>
+    <string name="playerO">Player O: </string>
+    <string name="playerTurn1">Player </string>
+    <string name="playerTurn2">\'s turn</string>
+    <string name="toast_message">Please press the button!</string>
+    <string name="info_msg1">1. There are two game modes: one player mode and two players mode</string>
+    <string name="info_msg2">2. In the game, you and the other player take turns sliding tokens one at a time onto a game board from the top or the left.</string>
+    <string name="info_msg3">3. A token moved onto the gameboard pushes tokens already there out of the way</string>
+    <string name="info_msg4">4. If the row or column is full, then the end token will be pushed off the board</string>
+    <string name="info_msg5">5. The first player to have five tokens in a row horizontally/vertically/diagonally wins!</string>
+    <string name="info_title">About</string>
+    <string name="musicSwitchPreference_title">Background Music</string>
+    <string name="musicSwitchPreference_summaryOn">Background music will play</string>
+    <string name="musicSwitchPreference_summaryOff">Background music will not play</string>
+    <string name="speedListPreference_title">Token Moving Speed</string>
+    <string name="speedListPreference_summary">How fast will the tokens move?</string>
+    <string-array name="speedListPreference_entries">
+        <item>Fast</item>
+        <item>Medium</item>
+        <item>Slow</item>
+    </string-array>
+    <string name="soundEffectCheckBoxPreference_title">Sound Effect</string>
+    <string name="soundEffectCheckBoxPreference_summaryOn">Sound Effect will play</string>
+    <string name="soundEffectCheckBoxPreference_summaryOff">Sound Effect will not play</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">點心五子棋</string>
+    <string name="endgame_title1">平手！</string>
+    <string name="endgame_title2">玩家X 勝利！</string>
+    <string name="endgame_title3">玩家O 勝利！</string>
+    <string name="endgame_message">再來一次？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="gameMode_title">遊玩模式</string>
+    <string name="gameMode_message">請選擇遊玩模式！</string>
+    <string name="onePlayer">單人遊戲</string>
+    <string name="twoPlayer">雙人遊戲</string>
+    <string name="playerX">玩家X: </string>
+    <string name="playerO">玩家O: </string>
+    <string name="playerTurn1">玩家</string>
+    <string name="playerTurn2">的回合</string>
+    <string name="toast_message">請按表情頭像</string>
+    <string name="info_msg1">1. 有兩種遊戲模式：單人模式和雙人模式</string>
+    <string name="info_msg2">2. 在遊戲中，你和另一位玩家將輪流把棋子從頂部或左側放到遊戲板上</string>
+    <string name="info_msg3">3. 移動到遊戲板上的棋子會將已經存在的令牌推開</string>
+    <string name="info_msg4">4. 如果行或列已滿，在行或列最後的棋子將將被推出遊戲板</string>
+    <string name="info_msg5">5. 第一位連續擁有五個（水平/垂直/對角線）棋子的玩家獲勝！</string>
+    <string name="info_title">關於</string>
+    <string name="musicSwitchPreference_title">背景音樂</string>
+    <string name="musicSwitchPreference_summaryOn">背景音樂開啟</string>
+    <string name="musicSwitchPreference_summaryOff">背景音樂關閉</string>
+    <string name="speedListPreference_title">棋子移動速度</string>
+    <string name="speedListPreference_summary">你希望棋子能移動多快？</string>
+    <string-array name="speedListPreference_entries">
+        <item>快</item>
+        <item>中</item>
+        <item>慢</item>
+    </string-array>
+    <string name="soundEffectCheckBoxPreference_title">音效</string>
+    <string name="soundEffectCheckBoxPreference_summaryOn">音效開啟</string>
+    <string name="soundEffectCheckBoxPreference_summaryOff">音效關閉</string>
+</resources>
